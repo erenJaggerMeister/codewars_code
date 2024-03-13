@@ -1,0 +1,39 @@
+now
+1 second
+44 seconds
+1 minute
+1 minute and 1 second
+1 minute and 30 seconds
+2 minutes
+2 minutes and 1 second
+2 minutes and 5 seconds
+1 hour
+1 hour, 0 minute and 1 second
+1 hour, 0 minute and 2 seconds
+1 hour and 1 minute
+1 hour, 1 minute and 1 second
+1 hour, 1 minute and 2 seconds
+3 hours and 10 minutes
+3 hours and 1 minute
+3 hours, 9 minutes and 51 seconds
+1 day
+new = 0 hours, 0 minute and 1 second
+1 day, 0 hours, 0 minute and 1 second
+1 day and 1 hour
+new = 1 hour, 0 minute and 30 seconds
+1 day, 1 hour, 0 minute and 30 seconds
+new = 1 hour and 1 minute
+1 day, 1 hour and 1 minute
+new = 1 hour, 1 minute and 1 second
+1 day, 1 hour, 1 minute and 1 second
+new = 1 hour, 1 minute and 2 seconds
+1 day, 1 hour, 1 minute and 2 seconds
+new = 1 hour and 2 minutes
+1 day, 1 hour and 2 minutes
+new = 1 hour, 2 minutes and 1 second
+1 day, 1 hour, 2 minutes and 1 second
+new = 1 hour, 2 minutes and 2 seconds
+1 day, 1 hour, 2 minutes and 2 seconds
+1 day and 2 hours
+2 days
+364 days
